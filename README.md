@@ -4,7 +4,12 @@
 - I am a scorpio ♏
 - My pronouns are she/her ♀️
 
-🔭 I'm currently a student on Black Codher's Full Stack Developer course
+- 🔭 I'm currently a student on Black Codher's Full Stack Developer course
+- I'm currently learning HTML and CSS
+- My favourite hobby is
+- I want to be a developer because
+- My biggest goal is
+- Fun fact: 
 
 
 
