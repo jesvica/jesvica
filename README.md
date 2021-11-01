@@ -5,12 +5,11 @@
 - My pronouns are she/her ♀️
 
 - 🔭 I'm currently a student on Black Codher's Full Stack Developer course
-- I'm currently learning HTML and CSS
-- My favourite hobby is
-- I want to be a developer because
-- My biggest goal is
-- Fun fact: 
-
+- 🌱 I'm currently learning HTML and CSS
+- 💻 I want to be a developer because I enjoy the ability to be both technical and creative 🖌️
+- 🧵 A couple of my hobbies are sewing and gaming 🎮
+- ✈️ My biggest goal is to travel and see as much of the world as I can
+- 👩‍🚀 If I didn't want to be a developer I'd love to be an astronaut or an ocean conservationist 🤿
 
 
 <!--
