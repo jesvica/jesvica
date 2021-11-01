@@ -1,8 +1,8 @@
 ### Hi! I'm Jessica 👋
 
-I live in England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-I am a scorpio ♏
-My pronouns are she/her ♀️
+- I live in England 🌍
+- I am a scorpio ♏
+- My pronouns are she/her ♀️
 
 🔭 I'm currently a student on Black Codher's Full Stack Developer course
 
