@@ -1,7 +1,5 @@
 ### Welcome! I'm Jessica 👋
 
-- I live in England 🌍
-
 #### A little bit about me:  
 🌱 I'm currently learning JavaScript  
 💻 I want to be a developer because I enjoy the ability to be both technical and creative 🖌️  
