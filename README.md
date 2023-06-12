@@ -2,7 +2,7 @@
 
 #### A little bit about me:  
 🌱 I'm currently learning JavaScript  
-💻 I want to be a developer because I enjoy the ability to be both technical and creative 🖌️  
+💻 I am studying development because I enjoy the ability to be both technical and creative 🖌️  
 🧵 A couple of my hobbies are sewing and gaming 🎮  
 
 <!--
