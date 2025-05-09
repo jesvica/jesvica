@@ -3,7 +3,6 @@
 #### A little bit about me:  
 🌱 I'm currently learning JavaScript  
 💻 I am studying development because I enjoy the ability to be both technical and creative 🖌️  
-🧵 A couple of my hobbies are sewing and gaming 🎮  
 
 <!--
 **jesvica/jesvica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
